@@ -1,9 +1,8 @@
-# keitaisozaki
 # tl;dr
 
 Software Developer in Japan.
 
-Overflow.inc
+Overflow, Inc
 
 [Offers Profile Page](https://offers.jp/a/users/b93f3c9dc51e23c19e33e279afc9f03e8fe75be1f560dc130105485a14552551)
 
