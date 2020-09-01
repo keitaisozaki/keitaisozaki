@@ -1,5 +1,3 @@
-# tl;dr
-
 Software Developer in Japan.
 
 Overflow, Inc
