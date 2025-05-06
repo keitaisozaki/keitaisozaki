@@ -2,10 +2,6 @@
 
 Software Developer in Japan.
 
-Overflow, Inc
-
-[Offers Profile Page](https://offers.jp/a/users/b93f3c9dc51e23c19e33e279afc9f03e8fe75be1f560dc130105485a14552551)
-
 ![keitaisozaki's github stats](https://github-readme-stats.vercel.app/api?username=keitaisozaki&count_private=true&show_icons=true&theme=monokai)
 
 # Skills
@@ -27,4 +23,3 @@ Overflow, Inc
 # Contact
 
 [![Gmail](https://img.shields.io/badge/keita9isozaki@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:keita9isozaki@gmail.com "Connect via Email")
-[![Twitter](https://img.shields.io/badge/-@kta7979-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kta7979 "Follow on Twitter")
